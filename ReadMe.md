@@ -2,7 +2,7 @@
 
 ---
 
-This repository has some common search / sort algorithms.
+This repository has some common search / sort algorithms written in python, I also included the pseudocode of each algorithm alongside the actual code.
 
 **Algorithms**:
 
